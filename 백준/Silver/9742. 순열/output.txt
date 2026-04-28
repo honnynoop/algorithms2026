@@ -1,0 +1,5 @@
+235 4 = 352
+bein 20 = nbie
+123456 700 = 651342
+mnpqr 130 = No permutation
+tuvwxyz 4000 = ywuxvzt
